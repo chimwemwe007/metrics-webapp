@@ -1,62 +1,64 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Covid Tracker
 
-> Description the project.
+> This is a Covid-19 Tracker mobile web application that provides the user with the new cases of Covid-19 for each continent and individual countries for a particular continent.
+
+The web app consists of Home, Countries List, the Continent List and Details pages:
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript & CSS
+- React JS
+- Redux, Webpack, Babel and Jest 
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://metric-covid.herokuapp.com//)
+
+## Video Demo 
+
+[Video Demo Link](https://www.loom.com/share/6b6dfa558ee4a74aabae329f32ef046088)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Node JS
 
 ### Setup
+git clone https://github.com/chimwemwe007/Metrics-webapp.git
 
 ### Install
+npm install
 
 ### Usage
+npm start
 
 ### Run tests
+npm test
 
 ### Deployment
+npm run build
 
+## Author
 
+👤 **Chimwemwe MKandawire**
 
-## Authors
+- GitHub: [@chimwemwe007](https://github.com/Chimwemwe007)
+- Twitter: [@chxmz](https://twitter.com/chmxz)
+- LinkedIn: [@chimwemwe-mkandawire(https://www.linkedin.com/in/chimwemwe007/)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/chimwemwe007/Space-travellers/issues/).
 
 ## Show your support
 
@@ -64,12 +66,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original design idea by Nelson Sakwa on Behance.
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
